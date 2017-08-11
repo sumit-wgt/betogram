@@ -1,0 +1,140 @@
+/*a:hover
+{
+	color:#fff;
+}
+
+#user_registration
+{
+	border:1px solid #cccccc;
+	margin:auto auto;
+	margin-top:100px;
+	width:400px;
+}
+
+
+#user_registration label
+{
+    display: block;  
+	float: left; 
+	width: 70px;
+	margin: 0px 10px 0px 5px; 
+	text-align: right; 
+	line-height:1em;
+	font-weight:bold;
+}
+
+#user_registration input
+{
+	width:250px;
+}
+
+#user_registration p
+{
+	clear:both;
+}
+
+#submit
+{
+	border:1px solid #cccccc;
+	width:100px !important;
+	margin:10px;
+}
+
+h1
+{
+	text-align:center;
+}*/
+
+#passwordStrength
+{
+	height:10px;
+	display:block;
+	float:left;
+}
+
+.strength0
+{
+	width:100%;
+	background:#cccccc;
+}
+
+.strength1
+{
+	width:15%;
+	background:#ff5f5f;
+}
+
+.strength2
+{
+	width:30%;	
+	background:#ff5f5f;
+}
+
+.strength3
+{
+	width:45%;
+	background:#56e500;
+}
+
+.strength4
+{
+	background:#4dcd00;
+	width:70%;
+}
+
+.strength5
+{
+	background:#399800;
+	width:100%;
+}
+
+.passwordMeter {
+    color: #000;
+    font-size: 13px;
+    text-transform: capitalize;
+} 
+
+/******************For Business User Registration Start**********************************/
+#passwordStrength1
+{
+	height:10px;
+	display:block;
+	float:left;
+}
+
+.strengths0
+{
+	width:100%;
+	background:#cccccc;
+}
+
+.strengths1
+{
+	width:15%;
+	background:#ff5f5f;
+}
+
+.strengths2
+{
+	width:30%;	
+	background:#ff5f5f;
+}
+
+.strengths3
+{
+	width:45%;
+	background:#56e500;
+}
+
+.strengths4
+{
+	background:#4dcd00;
+	width:70%;
+}
+
+.strengths5
+{
+	background:#399800;
+	width:100%;
+}
+/******************For Business User Registration Ends **********************************/
